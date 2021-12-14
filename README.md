@@ -64,4 +64,6 @@
 #### [use e2e;]
 #### [show tables;]
 #### [select * from H1N1 limit 5;]
-### This can also be done connecting via MySQLWorkbench
+#### This can also be done connecting via MySQLWorkbench
+
+## Part 6: 
